@@ -1,5 +1,6 @@
-# microstrip_pyaedt_example
-pyaedt Example: Draw microstrip setup in hfss, place ports, define&amp;run analysis and save everything for later use
+# microstrip_pyaedt_example ![image](https://user-images.githubusercontent.com/90776867/142677347-08b0901f-55d6-48b0-9335-8eb584bd6f8d.png)
+
+pyaedt Example: Draw microstrip setup in hfss, place ports, define & run analysis, then save everything for later use
 
 ## Prerequisites
 
